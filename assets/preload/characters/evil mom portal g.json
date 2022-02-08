@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
+				370,
+				217
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-56,
-				8
+				294,
+				248
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				374,
+				271
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-18,
-				-28
+				332,
+				244
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -47,64 +47,31 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"anim": "",
-			"fps": 30,
-			"name": "",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "hey",
-			"fps": 40,
-			"name": "mom wkid",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
+				320,
+				190
 			],
 			"anim": "idle",
 			"fps": 30,
 			"name": "idl mom",
 			"indices": []
-		},
-		{
-			"offsets": [
-				100,
-				180
-			],
-			"indices": [],
-			"fps": 30,
-			"anim": "hurt",
-			"loop": false,
-			"name": "MOM lom"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/evil mom g",
+	"image": "characters/evil mom portal g",
 	"position": [
 		-250,
-		-80
+		-170
 	],
 	"healthicon": "evil mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		0,
+		0,
+		0
 	],
 	"camera_position": [
-		-150,
-		-80
+		-500,
+		-340
 	],
 	"sing_duration": 4,
 	"scale": 1.4
